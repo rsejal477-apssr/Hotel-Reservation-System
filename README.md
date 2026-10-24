@@ -52,6 +52,10 @@ The project uses the following sample room rates:
 - **IDE:** IntelliJ IDEA
 - **Version Control:** Git and GitHub
 
+  ## Application Screenshot
+  ![Hotel Reservation System GUI]
+  (hotel.png)
+
 ## 📂 Project Structure
 
 ```text
