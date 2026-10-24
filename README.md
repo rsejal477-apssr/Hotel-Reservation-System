@@ -54,7 +54,7 @@ The project uses the following sample room rates:
 
   ## Application Screenshot
   ![Hotel Reservation System GUI]
-  (hotel.png)
+  (./hotel.png)
 
 ## 📂 Project Structure
 
