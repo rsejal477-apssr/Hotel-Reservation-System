@@ -53,8 +53,7 @@ The project uses the following sample room rates:
 - **Version Control:** Git and GitHub
 
   ## Application Screenshot
-  ![Hotel Reservation System GUI]
-  (./hotel.png)
+  ![Hotel Reservation System GUI](./hotel.png)
 
 ## 📂 Project Structure
 
